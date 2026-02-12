@@ -1,8 +1,8 @@
 This recreates the famous title card from "The Thing" (1982) using Metal.
 
-macOS 26.2
-Xcode 26.2
-Apple metal version 32023.850
+- macOS 26.2
+- Xcode 26.2
+- Apple metal version 32023.850
 
 Besides Xcode and Xcode Developer Tools you may need to install Metal. To check:
 
